@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Yustine;
+    font-weight: 600;
+    src: url(./../assets/fonts/Yustine\ Signature.otf);
+}
+
+html{
+    font-family: "Roboto", sans-serif;     
+    font-weight: 400;
+}
+
+.text-primary{
+    color: rgb(159, 164, 240) !important;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color:rgb(135, 204, 218);
+}
+
+body {
+    background-color: #263e7b;
+    color: #fff;
+}
+
+.box-content main {
+    background-color: #0a1014;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
